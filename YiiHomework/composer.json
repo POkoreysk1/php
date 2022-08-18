@@ -1,0 +1,6 @@
+{
+  "require": {
+    "psr/http-message": "^1.0",
+    "twig/twig": "1.*"
+  }
+}

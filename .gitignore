@@ -1,0 +1,7 @@
+/homework/*
+/projects/*
+/yiiProject/*
+/vendor/*
+/YiiHomework/vendor/*
+/composer.json
+/composer.lock
